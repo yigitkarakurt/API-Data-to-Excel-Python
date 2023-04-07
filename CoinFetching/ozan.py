@@ -50,4 +50,4 @@ while True:
 
     # Wait for 10 seconds
     print(timestamp, btc_rate, eth_rate, stl_rate)
-    time.sleep(10)
+    time.sleep(5)
